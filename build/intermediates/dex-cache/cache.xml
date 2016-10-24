@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ubeim\AndroidStudioProjects\TerceraActividad\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\ubeim\AndroidStudioProjects\TerceraActividad\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d55aaa6b3cd328afca081ce5dbc7819648d1759e.jar" />
+    </item>
+    <item
+        jar="C:\Users\ubeim\AndroidStudioProjects\TerceraActividad\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="7b69b0e9a8d866f91abf1311c3f6917045934092">
+        <dex dex="C:\Users\ubeim\AndroidStudioProjects\TerceraActividad\app\build\intermediates\pre-dexed\debug\instant-run_51ff06036a4fd40685958dda0e7c35a2e9f9f0ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\ubeim\AndroidStudioProjects\TerceraActividad\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\ubeim\AndroidStudioProjects\TerceraActividad\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_87e19d352884a5633964b4c193565cbf1e744598.jar" />
+    </item>
+    <item
+        jar="C:\Users\ubeim\AndroidStudioProjects\TerceraActividad\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\ubeim\AndroidStudioProjects\TerceraActividad\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_2f2b79f148d2235c572a4d761949105ba89fda28.jar" />
+    </item>
+    <item
+        jar="C:\Users\ubeim\AndroidStudioProjects\TerceraActividad\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\ubeim\AndroidStudioProjects\TerceraActividad\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_8440b43edd1bf154fbc6615117d0c13db5674388.jar" />
+    </item>
+    <item
+        jar="C:\Users\ubeim\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\ubeim\AndroidStudioProjects\TerceraActividad\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_9912052f792a3c106f0fd690131a26f2d73cf5b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\ubeim\AndroidStudioProjects\TerceraActividad\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\ubeim\AndroidStudioProjects\TerceraActividad\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2017e2be4cb1884cb87f429f30b1ce489ab2d028.jar" />
+    </item>
+    <item
+        jar="C:\Users\ubeim\AndroidStudioProjects\TerceraActividad\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ubeim\AndroidStudioProjects\TerceraActividad\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_768f10b244db9db4c21604deb60401b48c3cb95c.jar" />
+    </item>
+    <item
+        jar="C:\Users\ubeim\AndroidStudioProjects\TerceraActividad\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="36371c5ab38608883b36f4f4afc7f82287c6f62d">
+        <dex dex="C:\Users\ubeim\AndroidStudioProjects\TerceraActividad\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_5865bb8be2c8e722e61c3132a377a3a3a129e7ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\ubeim\AndroidStudioProjects\TerceraActividad\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\ubeim\AndroidStudioProjects\TerceraActividad\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_70072efdf6ca3ddac8b2ef5b936681b37a730aab.jar" />
+    </item>
+    <item
+        jar="C:\Users\ubeim\AndroidStudioProjects\TerceraActividad\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\ubeim\AndroidStudioProjects\TerceraActividad\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_98aad6099f38b4a9cd3b1eff5296c6740a88ad28.jar" />
+    </item>
+    <item
+        jar="C:\Users\ubeim\AndroidStudioProjects\TerceraActividad\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\ubeim\AndroidStudioProjects\TerceraActividad\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_1997420a808be5f7d6f24a2f8d29a5af85d4ddde.jar" />
+    </item>
+    <item
+        jar="C:\Users\ubeim\AndroidStudioProjects\TerceraActividad\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\ubeim\AndroidStudioProjects\TerceraActividad\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_71d3b5d84c7cbaf42cd1a236878788baec2547e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\ubeim\AndroidStudioProjects\TerceraActividad\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\ubeim\AndroidStudioProjects\TerceraActividad\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_bb076610555146b56e1c7462432450966a901964.jar" />
+    </item>
+    <item
+        jar="C:\Users\ubeim\AndroidStudioProjects\TerceraActividad\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\ubeim\AndroidStudioProjects\TerceraActividad\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_f4b856e909207ca6088a33c115c5a2beba7a7e79.jar" />
+    </item>
+    <item
+        jar="C:\Users\ubeim\AndroidStudioProjects\TerceraActividad\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\ubeim\AndroidStudioProjects\TerceraActividad\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_43c9942c44a61def99e9bae6c6a1d517f6426ccb.jar" />
+    </item>
+    <item
+        jar="C:\Users\ubeim\AndroidStudioProjects\TerceraActividad\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\ubeim\AndroidStudioProjects\TerceraActividad\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ae8ef480a817abb9ba6472c6936f1b614817f9d2.jar" />
+    </item>
+
+</items>
